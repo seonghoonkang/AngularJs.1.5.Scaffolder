@@ -1,0 +1,21 @@
+{
+    "LOGIN": {
+        "TITLE": {
+            "INST_ID": "아이디입력",
+            "INST_PW": "비밀번호입력"
+        },
+        "LABEL": {
+            "ID": "아이디!",
+            "PW": "패스워드",
+            "NAME": "이름",
+            "SNUMB": "사번"
+        },
+        "BTN": {
+            "LOGIN": "로그인"
+        },
+        "MSG": {
+            "REQ_SIGNIN": "Sign into your Groupware account.",
+            "COPYRIGHT": "ⓒ DASAN Handysoft Corp."
+        }
+    }
+}
